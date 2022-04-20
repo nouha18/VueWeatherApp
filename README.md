@@ -1,7 +1,9 @@
 # VueWeatherApp
 *************************************
-##VueJS responsive application of  current weather :)
-                                                          ************************************************************
+
+
+## VueJS responsive application of  current weather :)
+     ************************************************************
 
 
 
